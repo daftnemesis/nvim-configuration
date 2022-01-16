@@ -102,6 +102,9 @@ return packer.startup(function(use)
     },
   }
 
+  -- IndentBlankline
+  use "lukas-reineke/indent-blankline.nvim"
+
   -- Project
   use "ahmedkhalf/project.nvim" 
 
