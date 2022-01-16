@@ -205,6 +205,11 @@ _G.packer_plugins = {
     path = "/home/nemesis/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
   },
+  ["vim-jsx-pretty"] = {
+    loaded = true,
+    path = "/home/nemesis/.local/share/nvim/site/pack/packer/start/vim-jsx-pretty",
+    url = "https://github.com/MaxMEllon/vim-jsx-pretty"
+  },
   ["which-key.nvim"] = {
     loaded = true,
     path = "/home/nemesis/.local/share/nvim/site/pack/packer/start/which-key.nvim",

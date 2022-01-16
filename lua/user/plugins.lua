@@ -111,6 +111,9 @@ return packer.startup(function(use)
   -- Buffer line
   use "akinsho/bufferline.nvim"
 
+  -- jsx pretty
+  use 'MaxMEllon/vim-jsx-pretty'
+
   -- Automatically set up your configuration after cloning packer.nvim
   -- Put this at the end after all plugins
   if PACKER_BOOTSTRAP then
